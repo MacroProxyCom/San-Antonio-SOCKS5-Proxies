@@ -117,4 +117,4 @@ The quantity depends on your project’s scope. Rotating proxies can efficiently
 
 Indeed, we provide both static and rotating proxies to cater to your specific requirements.
 
-More information: https://www.macroproxy.com/blog/San-Antonio-SOCKS5
+**_More information_**: https://www.macroproxy.com/blog/San-Antonio-SOCKS5
